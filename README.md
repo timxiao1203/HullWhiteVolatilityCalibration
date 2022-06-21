@@ -42,3 +42,4 @@ https://finpricing.com/lib/EqConvertible.html
 
 https://osf.io/vwpkx/wiki/home/
 
+https://osf.io/q6sv3/download
