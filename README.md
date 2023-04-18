@@ -35,9 +35,8 @@ In general, swaptions do not correspond exactly to points on the short rate vola
 
 We will denote these swaptions by 4-5 and 5-5, respectively. We note that these option terms and underlying swap maturities correspond exactly to grid points on both the Blacks and short rate volatility matrices. Next, assume that the Hull-White short volatility for a 4.5 year option into 5 year swap can be computed by linearly interpolating the 4-5 and 5-5 short rate volatilities. To stress test this interpolation, GA interpolated the 4-5 and 5-5 Blacks volatilities to obtain a reference Blacks volatility for the 4.5-5 swaption. Next, the swaption was priced with respect to this Blacks volatility and, then, a HW short rate volatility was implied from this swaption price. Finally, the two short rates were compared. 
 
-Hull White model is useful for pricing callalbe exotics. See https://finpricing.com/lib/EqCallable.html
 
 
 Reference:
 
-https://osf.io/q6sv3/download
+https://finpricing.com/product.html
